@@ -119,6 +119,12 @@ figure {
   .fh5co-nav {
     padding: 20px 0;
   }
+
+  #RSVP {
+    color: #fff;
+    text-align: center;
+    width: 100%;
+  }
 }
 .fh5co-nav #fh5co-logo {
   font-size: 40px;
@@ -132,10 +138,6 @@ figure {
   color: #fff;
 }
 
-#RSVP {
-  color: #fff;
-  text-align: center;
-}
 @media screen and (max-width: 768px) {
   .fh5co-nav .menu-1,
   .fh5co-nav .menu-2 {
