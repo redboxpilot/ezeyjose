@@ -131,6 +131,11 @@ figure {
   padding: 5px 10px;
   color: #fff;
 }
+
+#RSVP {
+  color: #fff;
+  text-align: center;
+}
 @media screen and (max-width: 768px) {
   .fh5co-nav .menu-1,
   .fh5co-nav .menu-2 {
